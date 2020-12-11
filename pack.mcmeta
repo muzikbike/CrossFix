@@ -1,6 +1,6 @@
 {
 	"pack": {
 		"pack_format": 7,
-		"description": "Fixes several vanilla texture and model issues"
+		"description": "Fixes the mirroring of cross-shaped blocks"
 	}
 }
