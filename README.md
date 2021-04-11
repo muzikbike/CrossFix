@@ -6,9 +6,7 @@ However, fixing this has the potentially unwanted side effect of making blocks a
 
 Fixed tickets:
 * https://bugs.mojang.com/browse/MC-199241 - Cross texture planes are mirrored incorrectly from behind
-* https://bugs.mojang.com/browse/MC-199242 - Crop texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-199248 - Potted cross texture planes are mirrored incorrectly from behind
-* https://bugs.mojang.com/browse/MC-201751 - Lantern chain texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201753 - Sea pickle top texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201760 - Sunflower cross texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-202595 - Campfire texture planes are mirrored incorrectly from behind
